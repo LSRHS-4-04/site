@@ -1,0 +1,33 @@
+body {
+  color: Fuchsia;
+  background-color: LightPink;
+}
+
+h1{
+  color:MediumVioletRed
+  ;
+  font-family: "copperplate", serif;
+  font-size: 30pt;
+}
+h2{
+  font-family: "times"
+}
+h3{
+  color:Lime
+  ;
+  font-family: "TeX Gyre Cursor", serif;
+  font-size: 20pt;
+}
+h4{
+  color:PaleVioletRed
+  ;
+  font-family: "Consolamon", serif;
+  font-size: 20pt;
+}
+a:hover{
+  color: blue;
+}
+
+table, th, td {
+    border: 2px solid red;
+}
