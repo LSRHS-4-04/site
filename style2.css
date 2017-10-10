@@ -1,10 +1,17 @@
 head{
   color: Fuchsia;
   font-family: "Consolamon", serif;
-  font-size: 20pt;
+  font-size: 40pt;
 }
 
 body {
   color: Fuchsia;
   background-color: LightPink;
+  font-size: 40pt
+}
+
+table, th, td {
+    border: 2px solid lightblue;
+
+    font-size: 20pt
 }

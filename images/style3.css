@@ -1,0 +1,22 @@
+table, th, td {
+    border: 4px solid lightblue;
+}
+h1{
+  color:MediumVioletRed
+  ;
+  font-family: "copperplate", serif;
+  font-size: 30pt;
+}
+h2{
+  color:MediumVioletRed
+  ;
+  font-family: "copperplate", serif;
+  font-size: 15pt;
+}
+
+body {
+  color: Fuchsia;
+  background-color: black;
+  font-size: 10pt;
+  font-family: "Verdana", serif;
+}
