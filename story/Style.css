@@ -1,0 +1,29 @@
+body {
+  color: yellow;
+  background-color: lightpink;
+  font-size: 20pt;
+}
+
+table {
+    width:100%;
+}
+
+td{  padding: 30px;
+width: 40%;
+}
+
+ul{
+  list-style-type: none;
+  padding:20px;
+
+}
+
+li{
+  font-size: 30pt;
+  margin:40px;
+}
+h2{
+  font-size: 35pt;
+  font-style: times;
+  color: red;
+}
